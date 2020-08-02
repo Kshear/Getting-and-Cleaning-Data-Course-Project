@@ -1,0 +1,22 @@
+Changes to original data (i.e. manipulation)
+
+Names were updated to be more meaningful
+  ACC was updated to Accelerometer
+  Gyro was updated to Gyroscope
+  BodyBody was simplfied to Body
+  Mag was updated to Magnitude
+  "f" was updated to Frequency
+  "t" was updated to Time
+  
+  In the final dataset the mean and standard deviation for each activity and each participact was generated and labeled as either Mean or STD
+  
+  The follow represents the original variables:
+  
+  For each record it is provided:
+======================================
+
+- Triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration.
+- Triaxial Angular velocity from the gyroscope. 
+- A 561-feature vector with time and frequency domain variables. 
+- Its activity label. 
+- An identifier of the subject who carried out the experiment.
